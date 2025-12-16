@@ -81,7 +81,5 @@ MIT License
 欢迎提交Issue和Pull Request来改进这些skills！
 
 ## 📞 支持
-
-- 📖 [CodeBuddy Code文档](https://cnb.cool/codebuddy/codebuddy-code)
 - 🐛 [报告问题](https://github.com/YyZz-wy/codebuddy-skills/issues)
 - 💬 [讨论](https://github.com/YyZz-wy/codebuddy-skills/discussions)
