@@ -1,0 +1,25 @@
+{
+  "marketplace_name": "codebuddy-skills",
+  "display_name": "CodeBuddy Skills",
+  "description": "Professional skills collection for CodeBuddy Code, featuring GitHub Actions workflows, CI/CD optimization, and automation guidance.",
+  "version": "1.0.0",
+  "author": "YyZz-wy",
+  "repository": "https://github.com/YyZz-wy/codebuddy-skills",
+  "license": "MIT",
+  "skills": [
+    {
+      "id": "github-workflows-guide",
+      "name": "GitHub Workflows Guide",
+      "description": "Comprehensive guide for designing, analyzing, and optimizing GitHub Actions CI/CD workflows with production-ready templates and best practices.",
+      "category": "DevOps",
+      "tags": ["github", "ci-cd", "automation", "workflows", "actions"],
+      "version": "1.0.0",
+      "path": "skills/github-workflows-guide",
+      "author": "YyZz-wy",
+      "last_updated": "2025-12-16",
+      "requires": [],
+      "optional_dependencies": ["github-cli"],
+      "documentation_url": "https://github.com/YyZz-wy/codebuddy-skills/tree/main/skills/github-workflows-guide"
+    }
+  ]
+}
