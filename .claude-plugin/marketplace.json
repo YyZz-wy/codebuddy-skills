@@ -1,0 +1,22 @@
+{
+  "name": "codebuddy-skills",
+  "owner": {
+    "name": "YyZz-wy",
+    "email": ""
+  },
+  "metadata": {
+    "description": "Professional skills collection for CodeBuddy Code, featuring GitHub Actions workflows, CI/CD optimization, and automation guidance.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "github-workflows",
+      "description": "Comprehensive guide for designing, analyzing, and optimizing GitHub Actions CI/CD workflows with production-ready templates and best practices.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/github-workflows-guide"
+      ]
+    }
+  ]
+}
